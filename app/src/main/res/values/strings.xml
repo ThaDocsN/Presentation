@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Presentation</string>
+    <string name="capitol">Little Rock</string>
+    <string name="arkansas">Arkansas</string>
+    <string name="wisconsin">Wisconsin</string>
+    <string name="indiana">Indiana</string>
+    <string name="texas">Texas</string>
+    <string name="california">California</string>
+    <string name="florida">Florida</string>
+    <string name="hawaii">Hawaii</string>
+</resources>
